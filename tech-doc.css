@@ -70,7 +70,7 @@
 
 main {
   margin-left: 21%;
-  background: linear-gradient(180deg, white 0%, white 2.5%, rgba(69, 117, 181, 0.6) 3.5%, rgba(69, 117, 181, 0.6) 5.25%, rgba(212, 50, 35, 0.7) 6.25%, rgba(212, 50, 35, 0.7) 8.2%, white 8.2%, white 12%, rgba(69, 117, 181, 0.6) 12.25%, rgba(69, 117, 181, 0.6) 48.5%, rgba(212, 50, 35, 0.7) 49.25%, rgba(212, 50, 35, 0.7) 98.75%, white 99%)
+  background: linear-gradient(180deg, white 0%, white 2.5%, rgba(69, 117, 181, 0.6) 3.5%, rgba(69, 117, 181, 0.6) 5.25%, rgba(212, 50, 35, 0.7) 6.25%, rgba(212, 50, 35, 0.7) 8.2%, white 8.2%, white 12%, rgba(69, 117, 181, 0.6) 12.25%, rgba(69, 117, 181, 0.6) 48.5%, rgba(212, 50, 35, 0.7) 49.25%, rgba(212, 50, 35, 0.7) 98.75%, white 99%);
 }
 
 main header {
@@ -94,23 +94,3 @@ footer {
 .bottom {
   border-bottom: 2px solid black;
 }
-
-@media {air_intake img {
-  max-width: 700px;
-  }}
-
-@media {compressor img {
-  max-width: 500px;
-  }}
-
-@media {combustion_chamber img {
-  max-width: 700px;
-  }}
-
-@media {turbine img {
-  max-width: 700px;
-  }}
-
-@media {exhaust img {
-  max-width: 270px;
-  }}
